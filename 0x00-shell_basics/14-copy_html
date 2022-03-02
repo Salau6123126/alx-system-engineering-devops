@@ -1,2 +1,2 @@
 #!/bin/bash
- cp files.html /alx-sytem_engineering-devops
+ cp files.html /tmp/file_0.html
