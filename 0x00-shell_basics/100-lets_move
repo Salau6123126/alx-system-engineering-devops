@@ -1,2 +1,2 @@
 #!/bin/bash
- mv -v ~files a* /tmp/u
+ mv [:UPPER]* /tmp/u
