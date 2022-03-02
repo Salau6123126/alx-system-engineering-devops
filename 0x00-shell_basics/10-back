@@ -1,4 +1,2 @@
 #!/bin/bash
- source
-#!/bin/bash
  source ./10-back
