@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ampxUn
+ls -pamv
