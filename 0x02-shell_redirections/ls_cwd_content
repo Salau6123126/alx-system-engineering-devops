@@ -1,17 +1,22 @@
-.
-..
-0-hello_world
-1-confused_smiley
-10-no_more_js
-2-hellofile
-3-twofiles
-4-lastlines
-5-firstlines
-6-third_line
-7-file
-8-cwd_state
-9-duplicate_last_line
-README.md
-\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-ls_cwd_content
-{*\"Best School"\\*$?*****:}
+total 12
+drwxrwxr-x 1 fawaz fawaz   512 Mar  8 00:11 .
+drwxrwxr-x 1 fawaz fawaz   512 Mar  7 21:48 ..
+-rw------- 1 fawaz fawaz 12288 Mar  8 00:07 .swp
+-rwxrw-r-- 1 fawaz fawaz    32 Mar  7 21:54 0-hello_world
+-rwxrw-r-- 1 fawaz fawaz    31 Mar  7 23:58 1-confused_smiley
+-rwxrw-r-- 1 fawaz fawaz    23 Mar  7 23:30 10-no_more_js
+-rwxrw-r-- 1 fawaz fawaz    31 Mar  7 23:35 13-unique
+-rw-rw-r-- 1 fawaz fawaz    20 Mar  7 23:27 17-hidethisword
+-rwxrw-r-- 1 fawaz fawaz    28 Mar  7 22:10 2-hellofile
+-rwxrw-r-- 1 fawaz fawaz    40 Mar  7 22:25 3-twofiles
+-rwxrw-r-- 1 fawaz fawaz    33 Mar  7 22:29 4-lastlines
+-rwxrw-r-- 1 fawaz fawaz    33 Mar  7 22:31 5-firstlines
+-rwxrw-r-- 1 fawaz fawaz    42 Mar  7 22:38 6-third_line
+-rwxrw-r-- 1 fawaz fawaz    79 Mar  7 23:16 7-file
+-rwxrw-r-- 1 fawaz fawaz    36 Mar  8 00:11 8-cwd_state
+-rw-rw-r-- 1 fawaz fawaz     0 Mar  7 21:48 9-duplicate_last_line
+-rw-rw-r-- 1 fawaz fawaz    89 Mar  7 21:48 README.md
+-rw-rw-r-- 1 fawaz fawaz    12 Mar  7 23:16 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+drwxrwxr-x 1 fawaz fawaz   512 Mar  7 23:32 dir1
+-rw-rw-r-- 1 fawaz fawaz     0 Mar  8 00:11 ls_cwd_content
+-rw-rw-r-- 1 fawaz fawaz    12 Mar  7 22:43 {*\"Best School"\\*$?*****:}
