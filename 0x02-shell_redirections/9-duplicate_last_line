@@ -1,2 +1,2 @@
 #!/bin/bash
-NAME=( tail iacta ) | echo "$NAME" >> iacta 
+tail -1 < iacta >> iacta 
