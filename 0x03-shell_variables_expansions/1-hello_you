@@ -1,1 +1,2 @@
 #!/bin/bash
+USER=whoami | echo 'hello' $USER 
