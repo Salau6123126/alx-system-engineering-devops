@@ -1,2 +1,2 @@
-#!/bin/bash
-file -lm School
+0 string SCHOOL School data
+!:mime SCHOOL
